@@ -4,9 +4,15 @@ talkgo video markdown notes
 
 ## 学习笔记 for Go夜读
 
-官网：https://talkgo.org/
-github:https://github.com/talkgo/night
-bilibili:https://space.bilibili.com/326749661
-youtube：https://youtube.com/c/talkgo_night
+相关链接
 
-跟踪 go 夜读一起开启 Golang 进阶之路
+- 官网：https://talkgo.org/
+
+- github:https://github.com/talkgo/night
+
+- bilibili:https://space.bilibili.com/326749661
+
+- youtube：https://youtube.com/c/talkgo_night
+
+
+跟着 go 夜读一起开启 Golang 进阶之路
