@@ -341,7 +341,7 @@ type Ag struct {
 }
 ```
 
-<img src="./demo-struct-align/ag.svg" alt="ag" style="zoom:80%;" />
+<img src="./pic/demo-struct-align/ag.svg" alt="ag" style="zoom:80%;" />
 
 
 
@@ -466,11 +466,11 @@ zero size of struct with T1 size: 8; T2(as final-zero-field) size: 16
 
 
 
-<img src="./demo-struct-align/final-zero-field-t1.svg" alt="final-zero-field-t1" style="zoom:67%;" />
+<img src="./pic/demo-struct-align/final-zero-field-t1.svg" alt="final-zero-field-t1" style="zoom:67%;" />
 
 <p style="text-align: center">T1 内存结构模型图</p>
 
-<img src="./demo-struct-align/final-zero-field-t2.svg" alt="final-zero-field-t2" style="zoom:67%;" />
+<img src="./pic/demo-struct-align/final-zero-field-t2.svg" alt="final-zero-field-t2" style="zoom:67%;" />
 
 <p style="text-align: center">T2 内存结构模型图</p>
 
@@ -491,7 +491,7 @@ type tooMuchPadding struct {
 }
 ```
 
-<img src="./demo-struct-align/align-2.svg" alt="align-2" style="zoom:80%;" />
+<img src="./pic/demo-struct-align/align-2.svg" alt="align-2" style="zoom:80%;" />
 
 <p style="text-align: center">TooMuchPadding 内存结构模型图</p>
 
