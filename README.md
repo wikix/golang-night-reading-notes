@@ -1,8 +1,8 @@
 # golang-night-reading-notes
-talkgo video markdown notes
 ----
 
 ## 学习笔记 for Go夜读
+##### by wikix (Go learner & distributed system developer)
 
 相关链接
 
