@@ -1,0 +1,65 @@
+[{
+    "name": "Ag.arr",
+    "type": "[2]int8",
+    "start": 0,
+    "end": 2,
+    "size": 2,
+    "align": 1,
+    "is_padding": false
+}, {
+    "name": "Ag.bl",
+    "type": "bool",
+    "start": 2,
+    "end": 3,
+    "size": 1,
+    "align": 1,
+    "is_padding": false
+}, {
+    "name": "",
+    "type": "",
+    "start": 3,
+    "end": 8,
+    "size": 5,
+    "align": 0,
+    "is_padding": true
+}, {
+    "name": "Ag.sl",
+    "type": "[]int16",
+    "start": 8,
+    "end": 32,
+    "size": 24,
+    "align": 8,
+    "is_padding": false
+}, {
+    "name": "Ag.ptr",
+    "type": "*int64",
+    "start": 32,
+    "end": 40,
+    "size": 8,
+    "align": 8,
+    "is_padding": false
+}, {
+    "name": "Ag.st.str",
+    "type": "string",
+    "start": 40,
+    "end": 56,
+    "size": 16,
+    "align": 8,
+    "is_padding": false
+}, {
+    "name": "Ag.m",
+    "type": "map[string]int16",
+    "start": 56,
+    "end": 64,
+    "size": 8,
+    "align": 8,
+    "is_padding": false
+}, {
+    "name": "Ag.i",
+    "type": "interface{}",
+    "start": 64,
+    "end": 80,
+    "size": 16,
+    "align": 8,
+    "is_padding": false
+}]
